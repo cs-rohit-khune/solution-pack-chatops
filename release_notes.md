@@ -1,3 +1,3 @@
 # What's New
 
-- Added a new command to execute a specific connector action 
+- Added "Bot Connector CLI" playbook with a new command to execute a specific connector action.
