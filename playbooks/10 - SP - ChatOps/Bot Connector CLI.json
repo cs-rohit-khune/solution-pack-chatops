@@ -604,5 +604,8 @@
     "owners": [],
     "isPrivate": false,
     "deletedAt": null,
-    "recordTags": []
+    "recordTags": [
+        "Bot - Execute commands",
+        "PostCreate"
+    ]
 }
