@@ -3,6 +3,7 @@
 - **Version**: 1.0.1
 - **Certified**: No
 - **Publisher**: Fortinet
+- **Contributor**: Mahdi Naili
 - **Compatible Version**: FortiSOAR v7.2.0 and above 
 
 # Overview
