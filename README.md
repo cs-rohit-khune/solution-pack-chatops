@@ -1,6 +1,6 @@
 # Release Information
 
-- **Version**: 1.0.0
+- **Version**: 1.0.1
 - **Certified**: No
 - **Publisher**: Fortinet
 - **Compatible Version**: FortiSOAR v7.2.0 and above 
@@ -11,5 +11,5 @@
 
 # Next Steps
 
-| [Installation](https://github.com/fortinet-fortisoar/solution-pack-chatops/blob/develop/docs/setup.md#installation) | [Configuration](https://github.com/fortinet-fortisoar/solution-pack-chatops/blob/develop/docs/setup.md#configuration) | [Usage](https://github.com/fortinet-fortisoar/solution-pack-chatops/blob/develop/docs/usage.md) | [Contents](https://github.com/fortinet-fortisoar/solution-pack-chatops/blob/develop/docs/contents.md) |
-|--------------------------------------------|----------------------------------------------|------------------------|------------------------------|
+| [Installation](./docs/setup.md#installation) | [Configuration](./docs/setup.md#configuration) | [Usage](./docs/usage.md) | [Contents](./docs/contents.md) |
+|----------------------------------------------|------------------------------------------------|--------------------------|--------------------------------|
