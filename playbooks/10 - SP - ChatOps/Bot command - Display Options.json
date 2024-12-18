@@ -1,7 +1,7 @@
 {
     "@type": "Workflow",
     "triggerLimit": null,
-    "name": "Bot command - Display Options",
+    "name": "Bot Command - Display Options",
     "aliasName": null,
     "tag": null,
     "description": "Displays a list of all the Bot commands.",
